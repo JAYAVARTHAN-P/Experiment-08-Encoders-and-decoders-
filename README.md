@@ -84,11 +84,12 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 
 
 ### PROGRAM 
-/*
+```
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
 Developed by: JAYAVARTHAN P
 RegisterNumber:  212222100015
-*/
+```
+
 ## ENCODER
 ```
 module encoder(a0,a1,a2,y0,y1,y2,y3,y4,y5,y6,y7);
@@ -123,7 +124,7 @@ endmodule
 
 
 
-### RTL LOGIC  
+### RTL Diagram 
 
 ## ENCODER
 ![ENCODER](https://github.com/JAYAVARTHAN-P/Experiment-08-Encoders-and-decoders-/assets/121369281/16b301d6-94c1-46b4-bf38-4194b4194934)
@@ -143,7 +144,7 @@ endmodule
 ![TT DE](https://github.com/JAYAVARTHAN-P/Experiment-08-Encoders-and-decoders-/assets/121369281/bb0b66bc-6f52-49e8-8406-c4e7b5c5663e)
 
 
-## OUTPUT WAVEFORM
+###  OUTPUT WAVEFORM
 ## ENCODER
 ![OT1](https://github.com/JAYAVARTHAN-P/Experiment-08-Encoders-and-decoders-/assets/121369281/ae3ba288-8262-4da5-9825-d75203f4dfea)
 
